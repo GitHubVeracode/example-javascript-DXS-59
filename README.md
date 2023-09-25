@@ -4,7 +4,7 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.ds
 
 ## Try me!ss
 ssssssssddsss
-vv
+vvddd
 ```
 brew tap srcclr/srcclrdsddddsss
 brew install srcclrsssss
