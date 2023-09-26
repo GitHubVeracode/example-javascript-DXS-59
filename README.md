@@ -7,7 +7,7 @@ ssssssssddssssssssss
 vvdddssss
 ```ss
 brew tap srcclr/srcclrdsddddssssssre
-brew install srcclrsssss
+brew install srcclrsssssss
 srcclr activatesss
 srcclr scan --url https://github.com/srcclr/example-javascriptss
 ```
